@@ -1,6 +1,14 @@
 {
-  "ProjectFilePath": "d:\\VSProjects\\DotNetCore\\Newfolder\\DatingApp.API\\DatingApp.API.csproj",
+  "ProjectFilePath": "d:\\DatingApp\\DatingApp.API\\DatingApp.API.csproj",
   "TargetFramework": "netcoreapp2.2",
   "TagHelpers": [],
-  "Configuration": null
+  "Configuration": {
+    "ConfigurationName": "MVC-2.1",
+    "LanguageVersion": "2.1",
+    "Extensions": [
+      {
+        "ExtensionName": "MVC-2.1"
+      }
+    ]
+  }
 }
