@@ -12,3 +12,17 @@ D:\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.2\DatingApp.API.AssemblyInfo.cs
 D:\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.2\DatingApp.API.RazorTargetAssemblyInfo.cache
 D:\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.2\DatingApp.API.dll
 D:\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.2\DatingApp.API.pdb
+D:\VSProjects\DotNetCore\Newfolder\DatingApp.API\bin\Debug\netcoreapp2.2\DatingApp.API.deps.json
+D:\VSProjects\DotNetCore\Newfolder\DatingApp.API\bin\Debug\netcoreapp2.2\DatingApp.API.runtimeconfig.json
+D:\VSProjects\DotNetCore\Newfolder\DatingApp.API\bin\Debug\netcoreapp2.2\DatingApp.API.runtimeconfig.dev.json
+D:\VSProjects\DotNetCore\Newfolder\DatingApp.API\bin\Debug\netcoreapp2.2\DatingApp.API.dll
+D:\VSProjects\DotNetCore\Newfolder\DatingApp.API\bin\Debug\netcoreapp2.2\DatingApp.API.pdb
+D:\VSProjects\DotNetCore\Newfolder\DatingApp.API\obj\Debug\netcoreapp2.2\DatingApp.API.csprojAssemblyReference.cache
+D:\VSProjects\DotNetCore\Newfolder\DatingApp.API\obj\Debug\netcoreapp2.2\DatingApp.API.csproj.CoreCompileInputs.cache
+D:\VSProjects\DotNetCore\Newfolder\DatingApp.API\obj\Debug\netcoreapp2.2\DatingApp.API.RazorAssemblyInfo.cache
+D:\VSProjects\DotNetCore\Newfolder\DatingApp.API\obj\Debug\netcoreapp2.2\DatingApp.API.RazorAssemblyInfo.cs
+D:\VSProjects\DotNetCore\Newfolder\DatingApp.API\obj\Debug\netcoreapp2.2\DatingApp.API.AssemblyInfoInputs.cache
+D:\VSProjects\DotNetCore\Newfolder\DatingApp.API\obj\Debug\netcoreapp2.2\DatingApp.API.AssemblyInfo.cs
+D:\VSProjects\DotNetCore\Newfolder\DatingApp.API\obj\Debug\netcoreapp2.2\DatingApp.API.RazorTargetAssemblyInfo.cache
+D:\VSProjects\DotNetCore\Newfolder\DatingApp.API\obj\Debug\netcoreapp2.2\DatingApp.API.dll
+D:\VSProjects\DotNetCore\Newfolder\DatingApp.API\obj\Debug\netcoreapp2.2\DatingApp.API.pdb
