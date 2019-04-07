@@ -20,7 +20,7 @@
               <!--<img src="{{authService.currentUser.photoUrl}}" alt="">-->
               
               <!--After Using BehaviorSubject -->
-              <img src="{{photoUrl}}" alt="">
+              <img src="{{photoUrl || '../../assets/user.png'}}" alt="">
             </span>
             <a class="dropdown-toggle text-light" dropdownToggle>
               Welcome {{authService.decodedToken?.unique_name | titlecase}}
